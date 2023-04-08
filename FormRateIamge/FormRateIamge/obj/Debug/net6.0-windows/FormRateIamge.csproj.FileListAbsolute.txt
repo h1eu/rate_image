@@ -1,0 +1,17 @@
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\bin\Debug\net6.0-windows\FormRateIamge.exe
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\bin\Debug\net6.0-windows\FormRateIamge.deps.json
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\bin\Debug\net6.0-windows\FormRateIamge.runtimeconfig.json
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\bin\Debug\net6.0-windows\FormRateIamge.dll
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\bin\Debug\net6.0-windows\FormRateIamge.pdb
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.csproj.AssemblyReference.cache
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.Form1.resources
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.csproj.GenerateResource.cache
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.AssemblyInfoInputs.cache
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.AssemblyInfo.cs
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.csproj.CoreCompileInputs.cache
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.dll
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\refint\FormRateIamge.dll
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.pdb
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\FormRateIamge.genruntimeconfig.cache
+C:\Users\KCCSHOP\Desktop\khoa_ha\FormRateIamge\FormRateIamge\obj\Debug\net6.0-windows\ref\FormRateIamge.dll
